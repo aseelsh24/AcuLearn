@@ -1,0 +1,121 @@
+[
+  {
+    "id": "mcq-cardio-001",
+    "assessmentType": "mcq",
+    "questionText": "Which valve is most commonly affected in rheumatic heart disease?",
+    "academicLevel": "undergraduate",
+    "specialtyModule": "cardiology",
+    "blockOrSemester": "block3",
+    "options": [
+      "Aortic valve",
+      "Mitral valve",
+      "Tricuspid valve",
+      "Pulmonary valve"
+    ],
+    "correctAnswer": "Mitral valve",
+    "difficulty": "medium",
+    "tags": ["rheumatic-fever", "valvular-disease"],
+    "createdAt": "2025-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "written-resp-001",
+    "assessmentType": "written",
+    "questionText": "Describe the pathophysiology of asthma and explain the rationale for using bronchodilators and corticosteroids in its management.",
+    "academicLevel": "undergraduate",
+    "specialtyModule": "respiratory",
+    "blockOrSemester": "block2",
+    "modelAnswer": "Asthma is a chronic inflammatory disorder of the airways characterized by reversible airflow obstruction. The pathophysiology involves airway inflammation, bronchial hyperresponsiveness, and mucus hypersecretion. Bronchodilators (beta-2 agonists) work by relaxing bronchial smooth muscle, providing immediate symptom relief. Corticosteroids target the underlying inflammation, reducing airway hyperresponsiveness and preventing exacerbations.",
+    "keyPoints": [
+      "Chronic airway inflammation",
+      "Reversible bronchoconstriction",
+      "Bronchodilators provide symptomatic relief",
+      "Corticosteroids reduce inflammation",
+      "Combination therapy for better control"
+    ],
+    "difficulty": "hard",
+    "tags": ["asthma", "respiratory", "pharmacology"],
+    "createdAt": "2025-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "osce-cvs-001",
+    "assessmentType": "osce",
+    "questionText": "Perform a focused cardiovascular examination on this patient presenting with chest pain.",
+    "academicLevel": "postgraduate",
+    "specialtyModule": "cardiology",
+    "stationDescription": "You are seeing a 55-year-old patient with chest pain. Perform a focused cardiovascular examination and document your findings.",
+    "checklist": [
+      {
+        "description": "Wash hands and introduce self",
+        "points": 1,
+        "required": true
+      },
+      {
+        "description": "Obtain consent and explain procedure",
+        "points": 1,
+        "required": true
+      },
+      {
+        "description": "Position patient at 45 degrees",
+        "points": 1,
+        "required": false
+      },
+      {
+        "description": "Inspect for visible pulsations and scars",
+        "points": 1,
+        "required": false
+      },
+      {
+        "description": "Palpate radial pulse (rate, rhythm, character)",
+        "points": 2,
+        "required": true
+      },
+      {
+        "description": "Measure blood pressure",
+        "points": 2,
+        "required": true
+      },
+      {
+        "description": "Palpate apex beat and assess character",
+        "points": 2,
+        "required": true
+      },
+      {
+        "description": "Auscultate heart sounds in all four areas",
+        "points": 3,
+        "required": true
+      },
+      {
+        "description": "Listen for murmurs with patient leaning forward",
+        "points": 2,
+        "required": false
+      },
+      {
+        "description": "Thank patient and summarize findings",
+        "points": 1,
+        "required": true
+      }
+    ],
+    "difficulty": "hard",
+    "tags": ["cvs-examination", "clinical-skills", "chest-pain"],
+    "createdAt": "2025-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "oral-neuro-001",
+    "assessmentType": "oral",
+    "questionText": "A patient presents with sudden onset of right-sided weakness and speech difficulty. What are the key differential diagnoses and what immediate investigations would you order?",
+    "academicLevel": "postgraduate",
+    "specialtyModule": "neurology",
+    "modelAnswer": "The presentation suggests an acute stroke syndrome. Key differentials include ischemic stroke (most common), hemorrhagic stroke, TIA, and stroke mimics (hypoglycemia, Todd's paresis, hemiplegic migraine). Immediate investigations should include: urgent non-contrast CT head to rule out hemorrhage, blood glucose, ECG, basic bloods (FBC, U&E, coagulation), and consideration for CT angiography if thrombolysis is being considered. Time is critical - use FAST assessment and aim for door-to-needle time under 60 minutes if thrombolysis indicated.",
+    "keyPoints": [
+      "Ischemic vs hemorrhagic stroke",
+      "Urgent CT head is first-line",
+      "Check blood glucose (stroke mimic)",
+      "Consider thrombolysis window (4.5 hours)",
+      "Time-critical management",
+      "FAST assessment"
+    ],
+    "difficulty": "hard",
+    "tags": ["stroke", "emergency", "neurology"],
+    "createdAt": "2025-11-03T00:00:00.000Z"
+  }
+]
