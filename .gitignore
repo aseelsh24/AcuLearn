@@ -18,7 +18,7 @@
 **/downloads/
 **/eggs/
 **/.eggs/
-**/lib/
+# **/lib/  # COMMENTED OUT - This blocks Flutter's lib/ source directory
 **/lib64/
 **/parts/
 **/sdist/
